@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:039206_0000_1013F865A1B161A8"/>
-            <pb facs="tcp:039206_0001_1013F86725A01C50"/>
+            <pb facs="unknown:039206_0000_1013F865A1B161A8"/>
+            <pb facs="unknown:039206_0001_1013F86725A01C50"/>
             <head>At A CO<g ref="char:V">Ʋ</g>NCIL Held at Boſton,
 <date>January the <hi>3</hi>d. <hi>1677.</hi>
                </date>
@@ -128,7 +128,7 @@
             <closer>
                <signed>By the CO<g ref="char:V">Ʋ</g>NCIL Edward Rawſon, Secr't.</signed>
             </closer>
-            <pb facs="tcp:039206_0002_1013F868AAEC1920"/>
+            <pb facs="unknown:039206_0002_1013F868AAEC1920"/>
          </div>
       </body>
    </text>
